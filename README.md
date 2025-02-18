@@ -1,6 +1,6 @@
 # Forecasting Air Quality Index (AQI) in Oklahoma City
 
-This project leverages ARIMA models to forecast the Air Quality Index (AQI) in Oklahoma City. By combining air quality data (including NO₂ concentrations and AQI values) with meteorological data (temperature, precipitation, wind speed, humidity, etc.), the project delivers accurate short-term forecasts to support proactive air quality management and public health decision-making.
+This project forecasts the Air Quality Index (AQI) in Oklahoma City using ARIMA models. By analyzing historical AQI data alongside meteorological variables (e.g., temperature, precipitation, wind speed, humidity), the study explores the relationships between air quality and weather conditions. The workflow includes data preprocessing, exploratory data analysis (EDA), ARIMA model development, and forecasting evaluation.
 
 ## Datasets
 
